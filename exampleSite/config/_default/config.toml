@@ -4,7 +4,7 @@ theme = "hugo-theme-bootstrap"
 copyright = "Copyright © 2021-{year} Humour et Délire. Aucun Copyright pour le contenue sur se site."
 
 # Multilingual mode
-defaultContentLanguage = "fr"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 
 # Pagination

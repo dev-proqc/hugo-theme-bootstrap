@@ -1,7 +1,12 @@
 [en]
   languageName = "English"
-  weight = 1
+  weight = 2
   contentDir = "content/en"
+  
+[en]
+  languageName = "Français"
+  weight = 1
+  contentDir = "content/fr"  
 
 [zh-cn]
   languageName = "简体中文"

@@ -1,5 +1,6 @@
 <div class="post-meta mb-3">
 {{ partial "socialshare.html" . }}
+{{- end -}}
   {{- range $key, $value := .Site.Taxonomies -}}
     {{- range ($.GetTerms $key) -}}
     <a href="{{ .Permalink }}" class="post-taxonomy">#{{ .Name }}</a>

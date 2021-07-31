@@ -1,5 +1,5 @@
 [about_me]
-other = "About Me"
+other = "À propos"
 
 [alipay]
 other = "Alipay"
@@ -8,7 +8,7 @@ other = "Alipay"
 other = "Archives"
 
 [categories]
-other = "Categories"
+other = "Catégories"
 
 [color_blue]
 other = "Blue"
@@ -62,7 +62,7 @@ other = "Home"
 other = "Language"
 
 [load_more]
-other = "Load More"
+other = "En voir plus"
 
 [mode]
 other = "Mode"
@@ -74,7 +74,7 @@ other = "Page {{ .PageNumber }}"
 other = "Palette"
 
 [reading_time]
-other = "{{ .ReadingTime }} min read"
+other = "{{ .ReadingTime }} Temps de lecture"
 
 [recent_posts]
 other = "Recent Posts"
@@ -86,7 +86,7 @@ other = "Related Posts"
 other = "Reward"
 
 [search]
-other = "Search"
+other = "Rechercher"
 
 [search_missing_keywords]
 other = "Please enter search keywords"
@@ -98,7 +98,7 @@ other = "No results found"
 other = "Found {{ .Total }} results"
 
 [series]
-other = "Series"
+other = "Vidéo"
 
 [settings]
 other = "Settings"

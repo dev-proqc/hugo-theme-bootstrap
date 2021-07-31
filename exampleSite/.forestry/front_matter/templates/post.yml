@@ -5,3 +5,22 @@ fields:
 - type: text
   name: title
   label: title
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+  hidden: false
+- name: i
+  type: file
+  config:
+    maxSize: 64
+  label: images
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: text

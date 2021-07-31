@@ -22,11 +22,6 @@
         {{- $url := absLangURL .URL -}}
         {{- $active := or (eq $currentPage.Permalink (absLangURL .URL)) ($currentPage.IsMenuCurrent "main" .) -}}
         {{- if .HasChildren -}}
-        <li class="nav-item dropdown">
-          <a class="nav-link{{ if $currentPage.HasMenuCurrent "main" . }} active{{ end }}" id="navbarDropdown-{{ .Identifier }}" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            {{ .Pre }} {{- .Name -}} {{ .Post }}
-          </a>
-            {{- end -}}
           </ul>
         </li>
         {{- else -}}

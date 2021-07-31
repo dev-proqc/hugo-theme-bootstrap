@@ -24,5 +24,3 @@ fields:
     schema:
       format: markdown
   label: text
-pages:
-- exampleSite/content/en/posts/l-image-veux-tout-dire.md

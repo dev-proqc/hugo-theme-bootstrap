@@ -11,5 +11,4 @@ tags = ["covid 19", "coquine", "humour francais"]
 title = "Encore une qui ne porte pas de masque ..."
 
 +++
-  
-![Encore une qui ne porte pas de masque](/uploads/6d795dcf704151b6d83bde92311aa610.jpg "Pourquoi un masque ?")hu
+![Encore une qui ne porte pas de masque](/uploads/6d795dcf704151b6d83bde92311aa610.jpg "Pourquoi un masque ?")

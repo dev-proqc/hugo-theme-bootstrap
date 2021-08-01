@@ -2,6 +2,7 @@
   {{- range $key, $value := .Site.Taxonomies -}}
     {{- range ($.GetTerms $key) -}}
     <a href="{{ .Permalink }}" class="post-taxonomy">#{{ .Name }}</a>
+    {{- partial "plugins/addthis" . -}}
     {{- end -}}
   {{- end -}}
 </div>

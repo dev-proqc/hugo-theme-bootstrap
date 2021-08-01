@@ -100,7 +100,7 @@ titleCase = true # Capitalized title.
   wechat = "images/reward/wechat.png"
 
 #[share]
-  #addThis = "ra-6105e769bf3b5f8b" # AddThis pubid.
+  addThis = "ra-6105e769bf3b5f8b" # AddThis pubid.
 
 [fontSize] # Comment or remove this settings to disable font size switcher.
   # extraSmall = ".8rem"

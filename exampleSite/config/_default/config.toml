@@ -35,10 +35,3 @@ pygmentsUseClasses = true
   category = "categories"
   series = "series"
   tag = "tags"
-  
-[Params.social.share]
-  facebook = true
-  linkedin = true
-  twitter = true
-  whatsapp = true
-  email = true

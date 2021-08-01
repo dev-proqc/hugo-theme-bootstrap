@@ -3,7 +3,7 @@
 # titleSeparator = "|" # Title separator. Default to "-".
 
 description = "An extreme fast, responsive and feature-rich blog theme for Hugo"
-keywords = "Hugo, Bootstrap, Blog Theme"
+keywords = "Humour et Délire, humour, meme francais"
 # images = ["site-feature-image.jpg"]
 
 # logo = "images/logo.png" # Logo image. Default to "images/logo.webp".
@@ -14,7 +14,7 @@ palette = "blue" # Default palette. Optional.
 # palettes = ["blue", "blue gray", "brown"] # Available palettes. Default to ALL.
 # palettes = [] # Disable palette switcher.
 
-# color = "dark" # light, dark or dynamic. Default to dynamic.
+color = "dark" # light, dark or dynamic. Default to dynamic.
 
 # fullWidth = true # Full width.
 # fixedHeader = false # Turn on/off fixed header.
@@ -26,7 +26,7 @@ googleAdsense = ""
 
 # math = true # Enable math globally.
 # toc = false # Disable TOC globally.
-# breadcrumb = false # Disable breadcrumb
+breadcrumb = false # Disable breadcrumb
 
 # poweredBy = false # Whether to show powered by.
 
